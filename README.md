@@ -36,4 +36,4 @@ However, for you to run an automated script, you would need to code one for your
 Then you can run them from the files which you have created with the .sh extension. 
 """
 
-# Any Contributions and/or review to this project would be highly appreciated, and your suggestions can be send directly to the author @ oisavictor@gmail.com
+# Any Contributions and/or review to this project would be highly appreciated.
