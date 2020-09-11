@@ -148,6 +148,7 @@ STEPS:
 - Define the VM instance by creating a VM instance module.
 
 STEPS
+
         Create a VM instance module. A module is a reusable configuration inside a folder. You will use this module for all VM instances
 
     *   create a new folder inside tfnet, using the mkdir command
@@ -422,7 +423,10 @@ STEPS:
 
 # TASK 5: CREATE A CONFIGURATION FOR AN AUTO-MODE NETWORK
 
+- Create mynetwork and its resources
+
 STEPS
+    
     *   Repeat the above process and creat a new file with the name mynetwork.tf file
         Note this file should be located in the tfnet folder also
 
