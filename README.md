@@ -31,9 +31,9 @@ file which is an extract from the instruction documentation.
 2.  The Translations of the three (3) selected labs are named by their labs title and added into the folder title "Translations".
 
 
-# Note that, the translated files are step by step guide as directed by the qwiklabs instruction and would not run as an automated script. 
+### Note that, the translated files are step by step guide as directed by the qwiklabs instruction and would not run as an automated script. 
 However, for you to run an automated script, you would need to code one for yourself by copy all the individual codes for each Lab into their respective scripted files.
 Then you can run them from the files which you have created with the .sh extension. 
-"""
+~~~
 
-# Any Contributions and/or review to this project would be highly appreciated.
+## Any Contributions and/or review to this project would be highly appreciated.
