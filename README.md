@@ -19,7 +19,7 @@
 # Submission:
     -   The results of both challenges listed above should be documented in a Github repository.
 
-    -   Submit the documented github repo to the [GADS Team](https://bit.ly/GADSPracticeProjectSubmission/).
+    -   Submit the documented github repo to the GADS Team @ https://bit.ly/GADSPracticeProjectSubmission/
 
 
 # Results:
