@@ -19,14 +19,14 @@
 # Submission:
     -   The results of both challenges listed above should be documented in a Github repository.
 
-    -   Submit the documented github repo to the GADS Team @ bit.ly/GADSPracticeProjectSubmission
+    -   Submit the documented github repo to the [GADS Team](bit.ly/GADSPracticeProjectSubmission)
 
 
 # Results:
 ~~~
 1.  The Screenshots for the various lab have been attached to a Folder named "Qwiklabs Screenshot 15+ extras". 
-Kindly refer to the list of labs that was carried out in this project, in the "ASSOCIATE CLOUD ENGINEER: PHASE 2 LAB LIST.md" 
-file which is an extract from the instruction documentation.
+    Kindly refer to the list of labs that was carried out in this project, in the "ASSOCIATE CLOUD ENGINEER: PHASE 2 LAB LIST.md" 
+    file which is an extract from the instruction documentation.
 
 2.  The Translations of the three (3) selected labs are named by their labs title and added into the folder title "Translations".
 ~~~
